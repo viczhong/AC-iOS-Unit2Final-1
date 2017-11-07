@@ -47,3 +47,8 @@ update all the others.
 
 1. Comment the methods you end up implementing, noting whether it's a target-action method or 
 a delegate method.
+
+1. Extra credit. Create a convenience initializer on the Crayon model that uses the "hex" field to populate the the red, green, blue properties for your crayons. 
+
+
+
