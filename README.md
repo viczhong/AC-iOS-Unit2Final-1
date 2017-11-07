@@ -29,7 +29,7 @@ don't have any relationship to each other, other than being tabs in the same app
 
 1. Build the View Controller architecture as depicted in this image:
 
-	![Storyboard](storyBoard.png) 
+<img src="https://github.com/C4Q/AC-iOS-Unit2Final/blob/master/StoryBoard.png" width="320" />
 
 
 Set the background color of the rows by building a UIColor from with the crayon's red, green, and blue 
