@@ -39,6 +39,7 @@ extension CrayonViewController: UITableViewDelegate, UITableViewDataSource {
 
         if crayonAtRow.name == "Black" {
             cell.textLabel?.textColor = .white
+            cell.detailTextLabel?.textColor = .white
         }
 
         return cell
